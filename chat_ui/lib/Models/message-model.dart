@@ -32,12 +32,12 @@ final User steven =
 List<User> favorites = [sam, greg, james, steven, olivia];
 
 List<Message> chats = [
-  Message(sender: james, time: "5:30 PM", text: "How is it going", isLiked: false, unread: true),
-  Message(sender: olivia, time: "4:30 PM", text: "How is it going", isLiked: false, unread: true),
-  Message(sender: john, time: "3:30 PM", text: "How is it going", isLiked: false, unread: false),
-  Message(sender: sophia, time: "2:30 PM", text: "How is it going", isLiked: false, unread: true),
-  Message(sender: greg, time: "1:30 PM", text: "How is it going", isLiked: true, unread: false),
-  Message(sender: steven, time: "12:30 PM", text: "How is it going", isLiked: false, unread: true),
-  Message(sender: sam, time: "11:30 PM", text: "How is it going", isLiked: true, unread: true),
+  Message(sender: james, time: "5:30 PM", text: "Hey, How is it going", isLiked: false, unread: true),
+  Message(sender: olivia, time: "4:30 PM", text: "Hey, How is it going", isLiked: false, unread: true),
+  Message(sender: john, time: "3:30 PM", text: " Hey, How is it going", isLiked: false, unread: false),
+  Message(sender: sophia, time: "2:30 PM", text: "Hey, How is it going", isLiked: false, unread: true),
+  Message(sender: greg, time: "1:30 PM", text: "Hey, How is it going", isLiked: true, unread: false),
+  Message(sender: steven, time: "12:30 PM", text: "Hey, How is it going", isLiked: false, unread: true),
+  Message(sender: sam, time: "11:30 PM", text: "Hey, How is it going", isLiked: true, unread: true),
   
 ];
